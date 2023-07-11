@@ -2,16 +2,16 @@
 
 <br>
 
-## Welcome to my Binary-Tree project!
+## Welcome to my calculator project! You can use this project to calculate unlimited calcs to find the result you want!
 
 <br>
-<p>It was suppost to me use this Binary-Tree as school purpose, but the project was a cool experience, so I decide to let this in a repositórie for every one that want to test and use for school purpose!</p>
+<p>It was suppost to me use this calculator as school purpose, but the project was a cool experience, so I decide to let this in a repositórie for every one that want to test and learn how to build in a simple way!</p>
 
 ## Prerequisites:
 
 - Before start the teste, you will need this tools:
   - ✔️ [VsCode] (https://code.visualstudio.com/download);
-  - ✔️ [Java] (https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.zip);
+  - ✔️ [Python package] (https://www.python.org/downloads/);
 
 ## 📄 Instructions:
 
@@ -29,7 +29,7 @@
    <h2>Open the project file at VSCode</h2>
    <br>
 
-   <p>Now all you need is execute the program, be free test and modify!</p>
+   <p>Now all you need is execute the program, be free to put the calc and test if the anser is correct!</p>
 
 ![image](https://github.com/victorgabrielnascimento/BarCode_and_QRCode_Generator/assets/105366808/b4b69161-3da0-47c6-aa40-651aec0ed970)
 
